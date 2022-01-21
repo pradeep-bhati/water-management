@@ -1,1 +1,1 @@
-spring:  datasource:    url: jdbc:h2:mem:mydb#application.properties  application:    name: Water-management    timespan: 0    interval: 15    
+spring:  datasource:    url: jdbc:h2:mem:mydb#application.properties  application:    name: Water-management    timespan: 0    interval: 2    
